@@ -1,0 +1,7 @@
+{new_hash: "Time.now", 
+message: "Hello, World!"
+}
+
+second_new_hash = Hash.new
+
+second_new_hash = {}
